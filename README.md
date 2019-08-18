@@ -1,4 +1,6 @@
-# vuex-test-app
+# pets list (vue + vuex + vue-router + bootstrapVue)
+
+It's test progect on vue + vuex 
 
 ## Project setup
 ```
